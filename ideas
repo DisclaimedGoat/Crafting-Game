@@ -1,0 +1,20 @@
+/* ===================================================
+USE THIS TO COME UP WITH NOTES FOR GAME
+
+** A SIMPLE GAME **
+A small and simple crafting (or alchemy) game 
+
+In general, the player will always be brought to the main screen. Here, they
+can go to their inventory, or the help screen, or the shortcut screen, or the 
+crafting screen, or quit the game...
+
+crafting -- where the player will crafting their items
+inventory -- see the items that the player has already collected
+help -- tells the player basic commands to play the game
+exit -- exits and quits the game
+shortcut -- the screen where the player can scee possible shortcut codes for the
+            other screens
+
+
+
+====================================================== */
